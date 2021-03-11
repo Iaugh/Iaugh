@@ -12,4 +12,4 @@
 </p>
 
 [![GitHub Iaugh](https://img.shields.io/github/followers/Iaugh?label=follow&style=social)](https://github.com/Iaugh)
-[![Twitter: IIIIIIIllIIIlIl](https://img.shields.io/twitter/follow/IIIIIIIllIIIlIl?style=social)](https://twitter.com/IIIIIIIllIIIlIl)
+[![Twitter: capirs](https://img.shields.io/twitter/follow/IIIIIIIllIIIlIl?style=social)](https://twitter.com/capirs)
