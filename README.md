@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iaugh&show_icons=true&line_height=21"/>
 </p>
 
-[![GitHub Iaugh](https://img.shields.io/github/followers/Iaugh?label=follow&style=social)](https://github.com/Iaugh)
+[![GitHub Iaugh](https://img.shields.io/github/followers/Iaugh?label=follow&style=social)](https://github.com/tobbyy)
 [![Twitter: capirs](https://img.shields.io/twitter/follow/capirs?style=social)](https://twitter.com/capirs)
 
 <p> hola </p>
