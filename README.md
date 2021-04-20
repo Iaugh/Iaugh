@@ -7,11 +7,12 @@
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobbyy&&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobbyy&show_icons=true&line_height=21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y
+                           y&&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=foil&show_icons=true&line_height=21"/>
 </p>
 
-[![GitHub tobbyy](https://img.shields.io/github/followers/tobbyy?label=follow&style=social)](https://github.com/tobbyy)
+[![GitHub foil](https://img.shields.io/github/followers/foil?label=follow&style=social)](https://github.com/foil)
 [![Twitter: capirs](https://img.shields.io/twitter/follow/capirs?style=social)](https://twitter.com/capirs)
 
 <p> skrrrrrr mandem wys fam </p>
