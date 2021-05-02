@@ -12,6 +12,6 @@
 </p>
 
 [![GitHub foil](https://img.shields.io/github/followers/foil?label=follow&style=social)](https://github.com/foil)
-[![Twitter: capirs](https://img.shields.io/twitter/follow/capirs?style=social)](https://twitter.com/capirs)
 
-<p> skrrrrrr mandem wys fam </p>
+
+
