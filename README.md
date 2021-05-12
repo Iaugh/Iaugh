@@ -11,7 +11,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=foil&show_icons=true&line_height=21"/>
 </p>
 
-[![GitHub foil](https://img.shields.io/github/followers/foil?label=follow&style=social)](https://github.com/foil)
-
-
-
+bye.lol
+poo.rest
+racist.fr
+seduc.es
+meowpuppy.com
+rememberyour.pw
+blacksk.in
+lightsk.in
+moanfor.me
+ccccccccccccccccccccccccccccccccccccccccccccccccccc.cc
