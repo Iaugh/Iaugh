@@ -11,13 +11,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=foil&show_icons=true&line_height=21"/>
 </p>
 
-bye.lol
-poo.rest
-racist.fr
-seduc.es
-meowpuppy.com
-rememberyour.pw
-blacksk.in
-lightsk.in
-moanfor.me
-ccccccccccccccccccccccccccccccccccccccccccccccccccc.cc
